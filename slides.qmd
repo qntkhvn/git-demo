@@ -1,6 +1,6 @@
 ---
-title: "Insert title"
-author: "Insert author"
+title: "Linear regression"
+author: "John Doe"
 date: June 27, 2025
 format: html
 ---
